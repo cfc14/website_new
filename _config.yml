@@ -21,10 +21,10 @@ repository               : "cfc14/shankruth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "profile.png"
   name             : "Shankruth Balasubramaniyam"
   pronouns         : # example: "she/her"  
-  bio              : "Transforming Ideas into Intelligent Robotics for Exploration"
+  bio              : "Aspiring roboticist passionate about autonomous systems, blending interdisciplinary research and innovation to tackle real-world challenges."
   location         : "Chennai, Tamil Nadu, India"
   employer         : "Indian Institute of Technology Madras"
   uri              : # URL
